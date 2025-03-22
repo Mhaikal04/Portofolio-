@@ -1,0 +1,8 @@
+muhammad-haikal-portfolio/
+│
+├── index.html       (Main homepage)
+├── about.html       (About Me page)
+├── projects.html    (Projects page)
+├── contact.html     (Contact page)
+├── styles.css       (CSS file for styling)
+└── script.js        (Optional JavaScript file for interactivity)
